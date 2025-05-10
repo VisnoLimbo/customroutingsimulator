@@ -1,0 +1,51 @@
+Node ID,Parent,Prefix,Is Root,Is Disconnected,Position,Neighbors
+Node00,Node16,2001:db8::10:00,False,False,"(27, 25)","Node01, Node16, Node38"
+Node01,Node15,2001:db8::0f:01,False,False,"(23, 11)","Node00, Node15, Node30, Node38"
+Node02,None,2001:db8::02,True,True,"(119, 123)",
+Node03,Node32,2001:db8::20:03,False,False,"(111, 39)","Node32, Node45"
+Node04,Node13,2001:db8::0d:04,False,False,"(15, 60)","Node06, Node13"
+Node05,Node18,2001:db8::12:05,False,False,"(57, 31)","Node18, Node35, Node39"
+Node06,Node22,2001:db8::16:06,False,False,"(25, 49)","Node04, Node22, Node33"
+Node07,Node43,2001:db8::2b:07,False,False,"(94, 29)","Node32, Node43, Node49"
+Node08,Node29,2001:db8::1d:08,False,False,"(76, 58)",Node29
+Node09,None,2001:db8::09,True,True,"(77, 116)",
+Node10,Node25,2001:db8::19:0a,False,False,"(20, 124)",Node25
+Node11,Node13,2001:db8::0d:0b,False,False,"(36, 66)","Node13, Node33"
+Node12,Node46,2001:db8::2e:0c,False,False,"(110, 73)",Node46
+Node13,None,2001:db8::0d,True,False,"(27, 65)","Node04, Node11"
+Node14,Node23,2001:db8::17:0e,False,False,"(90, 47)","Node17, Node23, Node27, Node29, Node43"
+Node15,None,2001:db8::0f,True,False,"(30, 4)",Node01
+Node16,None,2001:db8::10,True,False,"(34, 25)",Node00
+Node17,Node23,2001:db8::17:11,False,False,"(82, 39)","Node14, Node23, Node43"
+Node18,Node36,2001:db8::24:12,False,False,"(67, 31)","Node05, Node36"
+Node19,Node42,2001:db8::2a:13,False,False,"(10, 101)",Node42
+Node20,Node28,2001:db8::1c:14,False,False,"(70, 97)",Node28
+Node21,Node31,2001:db8::1f:15,False,False,"(1, 85)",Node31
+Node22,Node33,2001:db8::21:16,False,False,"(33, 50)","Node06, Node33"
+Node23,Node43,2001:db8::2b:17,False,False,"(85, 42)","Node14, Node17, Node29, Node43"
+Node24,None,2001:db8::18,True,True,"(90, 83)",
+Node25,Node44,2001:db8::2c:19,False,False,"(22, 117)","Node10, Node44"
+Node26,Node34,2001:db8::22:1a,False,False,"(106, 101)",Node34
+Node27,Node14,2001:db8::17:0e:1b,False,False,"(99, 50)",Node14
+Node28,None,2001:db8::1c,True,False,"(69, 102)",Node20
+Node29,Node14,2001:db8::17:0e:1d,False,False,"(83, 55)","Node08, Node14, Node23"
+Node30,Node38,2001:db8::26:1e,False,False,"(10, 16)","Node01, Node38"
+Node31,None,2001:db8::1f,True,False,"(2, 82)",Node21
+Node32,Node07,2001:db8::2b:07:20,False,False,"(105, 32)","Node03, Node07"
+Node33,Node11,2001:db8::0d:0b:21,False,False,"(38, 53)","Node06, Node11, Node22"
+Node34,Node48,2001:db8::30:22,False,False,"(99, 105)","Node26, Node48"
+Node35,Node05,2001:db8::12:05:23,False,False,"(53, 19)",Node05
+Node36,Node49,2001:db8::31:24,False,False,"(70, 23)","Node18, Node49"
+Node37,None,2001:db8::25,True,True,"(72, 76)",
+Node38,Node01,2001:db8::0f:01:26,False,False,"(16, 20)","Node00, Node01, Node30"
+Node39,Node05,2001:db8::12:05:27,False,False,"(55, 41)",Node05
+Node40,Node41,2001:db8::29:28,False,False,"(29, 91)",Node41
+Node41,Node44,2001:db8::2c:29,False,False,"(34, 94)","Node40, Node44"
+Node42,None,2001:db8::2a,True,False,"(4, 108)",Node19
+Node43,Node17,2001:db8::17:11:2b,False,False,"(89, 36)","Node07, Node14, Node17, Node23"
+Node44,None,2001:db8::2c,True,False,"(30, 108)","Node25, Node41"
+Node45,Node03,2001:db8::20:03:2d,False,False,"(123, 45)",Node03
+Node46,None,2001:db8::2e,True,False,"(116, 71)",Node12
+Node47,None,2001:db8::2f,True,True,"(1, 31)",
+Node48,None,2001:db8::30,True,False,"(93, 113)",Node34
+Node49,Node07,2001:db8::2b:07:31,False,False,"(82, 21)","Node07, Node36"

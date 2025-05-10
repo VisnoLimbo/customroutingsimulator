@@ -1,0 +1,65 @@
+
+=== Parent-Child Relationships ===
+Node00 -> Node16 (Prefix: 2001:db8::10:00)
+Node01 -> Node15 (Prefix: 2001:db8::0f:01)
+Node02 has no parent (ROOT)
+Node03 -> Node32 (Prefix: 2001:db8::20:03)
+Node04 -> Node13 (Prefix: 2001:db8::0d:04)
+Node05 -> Node18 (Prefix: 2001:db8::12:05)
+Node06 -> Node22 (Prefix: 2001:db8::16:06)
+Node07 -> Node43 (Prefix: 2001:db8::2b:07)
+Node08 -> Node29 (Prefix: 2001:db8::1d:08)
+Node09 has no parent (ROOT)
+Node10 -> Node25 (Prefix: 2001:db8::19:0a)
+Node11 -> Node13 (Prefix: 2001:db8::0d:0b)
+Node12 -> Node46 (Prefix: 2001:db8::2e:0c)
+Node13 has no parent (ROOT)
+Node14 -> Node23 (Prefix: 2001:db8::17:0e)
+Node15 has no parent (ROOT)
+Node16 has no parent (ROOT)
+Node17 -> Node23 (Prefix: 2001:db8::17:11)
+Node18 -> Node36 (Prefix: 2001:db8::24:12)
+Node19 -> Node42 (Prefix: 2001:db8::2a:13)
+Node20 -> Node28 (Prefix: 2001:db8::1c:14)
+Node21 -> Node31 (Prefix: 2001:db8::1f:15)
+Node22 -> Node33 (Prefix: 2001:db8::21:16)
+Node23 -> Node43 (Prefix: 2001:db8::2b:17)
+Node24 has no parent (ROOT)
+Node25 -> Node44 (Prefix: 2001:db8::2c:19)
+Node26 -> Node34 (Prefix: 2001:db8::22:1a)
+Node27 -> Node14 (Prefix: 2001:db8::17:0e:1b)
+Node28 has no parent (ROOT)
+Node29 -> Node14 (Prefix: 2001:db8::17:0e:1d)
+Node30 -> Node38 (Prefix: 2001:db8::26:1e)
+Node31 has no parent (ROOT)
+Node32 -> Node07 (Prefix: 2001:db8::2b:07:20)
+Node33 -> Node11 (Prefix: 2001:db8::0d:0b:21)
+Node34 -> Node48 (Prefix: 2001:db8::30:22)
+Node35 -> Node05 (Prefix: 2001:db8::12:05:23)
+Node36 -> Node49 (Prefix: 2001:db8::31:24)
+Node37 has no parent (ROOT)
+Node38 -> Node01 (Prefix: 2001:db8::0f:01:26)
+Node39 -> Node05 (Prefix: 2001:db8::12:05:27)
+Node40 -> Node41 (Prefix: 2001:db8::29:28)
+Node41 -> Node44 (Prefix: 2001:db8::2c:29)
+Node42 has no parent (ROOT)
+Node43 -> Node17 (Prefix: 2001:db8::17:11:2b)
+Node44 has no parent (ROOT)
+Node45 -> Node03 (Prefix: 2001:db8::20:03:2d)
+Node46 has no parent (ROOT)
+Node47 has no parent (ROOT)
+Node48 has no parent (ROOT)
+Node49 -> Node07 (Prefix: 2001:db8::2b:07:31)
+
+=== Disconnected Nodes ===
+Node02 at position (119, 123) is disconnected
+Node09 at position (77, 116) is disconnected
+Node24 at position (90, 83) is disconnected
+Node37 at position (72, 76) is disconnected
+Node47 at position (1, 31) is disconnected
+
+=== Summary ===
+Total nodes           : 50
+Connected nodes       : 45
+Disconnected nodes    : 5
+Root nodes (no parent): 14
